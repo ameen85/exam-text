@@ -1,0 +1,18 @@
+#form{
+    margin: 2px;
+}
+#form fieldset{
+    border: 1px solid black;
+    padding: 14px;
+}
+
+#table {
+    width: 34%;
+    font-size: 30px;
+    text-align: center;
+    
+}
+#table ,tr ,th,td {
+    border: 1px solid black;
+    padding: 10px;
+}
